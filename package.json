@@ -9,10 +9,8 @@
 	],
 	"authors": [
 			{
-					"name": "Benjamin Burkhart",
-					"email": "benburkhart1+sarc@gmail.com",
-					"homepage": "http://www.smarthomesoft.com",
-					"role": "Developer"
+					"name": "Jey Cee",
+					"email": "jey-cee@live.com"
 			}
 	],
   "main": "lib/aquos.js",
