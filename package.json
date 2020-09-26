@@ -18,7 +18,7 @@
   "main": "lib/aquos.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:benburkhart1/sharp-aquos-remote-control.git"
+    "url": "git@github.com:jey-cee/sharp-aquos-remote-control.git"
   },
   "keywords": [
     "Sharp",
