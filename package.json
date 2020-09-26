@@ -1,5 +1,5 @@
 {
-  "name": "sharp-aquos-remote-control",
+  "name": "sharp-aquos-control",
 	"type": "library",
   "version": "0.0.7",
   "description": "A library for accessing the IP Remote functionality provided in some Sharp Aquos televisions.",
